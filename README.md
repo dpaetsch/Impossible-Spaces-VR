@@ -14,13 +14,13 @@ Check out a demo of the game on YouTube:
 
 ### Prerequisites
 - Unity 2021.3 or later
-- A VR headset (Oculus, HTC Vive, or compatible)
+- A Oculus (Meta Quest) VR headset (Other headset also possible, but untested)
 - Compatible PC setup for VR development
 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Impossible-spaces-VR.git
+   git clone https://github.com/dpaetsch/Impossible-spaces-VR.git
    ```
 2. Open the project in Unity.
 3. Connect your VR headset.
